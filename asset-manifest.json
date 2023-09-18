@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/keeperApp/static/js/main.deb982fe.js",
+    "index.html": "/keeperApp/index.html",
+    "main.deb982fe.js.map": "/keeperApp/static/js/main.deb982fe.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.deb982fe.js"
+  ]
+}
